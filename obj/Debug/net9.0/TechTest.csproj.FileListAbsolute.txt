@@ -1,0 +1,15 @@
+/Users/apple/TechTest/bin/Debug/net9.0/TechTest
+/Users/apple/TechTest/bin/Debug/net9.0/TechTest.deps.json
+/Users/apple/TechTest/bin/Debug/net9.0/TechTest.runtimeconfig.json
+/Users/apple/TechTest/bin/Debug/net9.0/TechTest.dll
+/Users/apple/TechTest/bin/Debug/net9.0/TechTest.pdb
+/Users/apple/TechTest/obj/Debug/net9.0/TechTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/TechTest/obj/Debug/net9.0/TechTest.AssemblyInfoInputs.cache
+/Users/apple/TechTest/obj/Debug/net9.0/TechTest.AssemblyInfo.cs
+/Users/apple/TechTest/obj/Debug/net9.0/TechTest.csproj.CoreCompileInputs.cache
+/Users/apple/TechTest/obj/Debug/net9.0/TechTest.sourcelink.json
+/Users/apple/TechTest/obj/Debug/net9.0/TechTest.dll
+/Users/apple/TechTest/obj/Debug/net9.0/refint/TechTest.dll
+/Users/apple/TechTest/obj/Debug/net9.0/TechTest.pdb
+/Users/apple/TechTest/obj/Debug/net9.0/TechTest.genruntimeconfig.cache
+/Users/apple/TechTest/obj/Debug/net9.0/ref/TechTest.dll
