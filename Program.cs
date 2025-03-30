@@ -1,6 +1,6 @@
 ﻿
 class TechTest{
-    static int FindMissingValue(int[] nArray){
+    static int FindMissingNumber(int[] nArray){
         // find the n
         int n = nArray.Length + 1;
 
@@ -18,8 +18,8 @@ class TechTest{
 
     static void Main(){
         int[] nArray = { 9, 6, 4, 2, 3, 5, 7, 0, 1 };
-        int missingNumber = FindMissingValue(nArray);
+        int missingNumber = FindMissingNumber(nArray);
 
-        Console.WriteLine($"Missing value: {missingNumber}");
+        Console.WriteLine($"Missing number: {missingNumber}");
     }
 }
